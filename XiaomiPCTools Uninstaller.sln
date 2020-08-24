@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XiaomiPCTools Uninstaller", "XiaomiPCTools Uninstaller\XiaomiPCTools Uninstaller.csproj", "{DEF31569-A8E9-4F58-AB2E-C581B75A9986}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEF31569-A8E9-4F58-AB2E-C581B75A9986}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEF31569-A8E9-4F58-AB2E-C581B75A9986}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEF31569-A8E9-4F58-AB2E-C581B75A9986}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEF31569-A8E9-4F58-AB2E-C581B75A9986}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8256251E-4725-4437-A237-22AB84537422}
+	EndGlobalSection
+EndGlobal
